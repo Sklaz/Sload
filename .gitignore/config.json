@@ -1,0 +1,13 @@
+{
+
+    "token": "NjIwMTYzMTEwMzcxNzIxMjE2.XXSx5w.Ain2Fglmln5sj6gMmiJW_rhXgfQ",
+    "prefix": "s!",
+    "db": {
+        "client": "sqlite3",
+        "connection": {
+            "filename": "./database.sqlite"
+        },
+        "useNullAsDefault": true
+    }
+
+}
